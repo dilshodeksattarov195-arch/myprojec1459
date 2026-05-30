@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervync",
+        "uuid": 555879,
+        "checksum": "p7zom"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
